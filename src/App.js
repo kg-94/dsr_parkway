@@ -11,7 +11,6 @@ function App() {
           Welcome Residents!!!
           <Routes>
             <Route path="/" element={<HomePage />} />
-
           </Routes>
         </div>
       </div>
