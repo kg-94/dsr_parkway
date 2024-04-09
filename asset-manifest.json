@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f064df9f.css",
-    "main.js": "/react-gh-pages/static/js/main.a14f2e58.js",
-    "static/js/453.9eb32e2f.chunk.js": "/react-gh-pages/static/js/453.9eb32e2f.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f064df9f.css.map": "/react-gh-pages/static/css/main.f064df9f.css.map",
-    "main.a14f2e58.js.map": "/react-gh-pages/static/js/main.a14f2e58.js.map",
-    "453.9eb32e2f.chunk.js.map": "/react-gh-pages/static/js/453.9eb32e2f.chunk.js.map"
+    "main.css": "/dsr_parkway/static/css/main.f064df9f.css",
+    "main.js": "/dsr_parkway/static/js/main.bf641ef3.js",
+    "static/js/453.9eb32e2f.chunk.js": "/dsr_parkway/static/js/453.9eb32e2f.chunk.js",
+    "index.html": "/dsr_parkway/index.html",
+    "main.f064df9f.css.map": "/dsr_parkway/static/css/main.f064df9f.css.map",
+    "main.bf641ef3.js.map": "/dsr_parkway/static/js/main.bf641ef3.js.map",
+    "453.9eb32e2f.chunk.js.map": "/dsr_parkway/static/js/453.9eb32e2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f064df9f.css",
-    "static/js/main.a14f2e58.js"
+    "static/js/main.bf641ef3.js"
   ]
 }
